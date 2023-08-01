@@ -20,8 +20,14 @@ When you click the "Save This Book" button, the chosen book will be securely sto
 
 ![screenshot of savedbooks list](assets/images/screenshot-mybooks.png)
 
-Lived Deployed URL:
+Live Deployed URL: https://dashboard.heroku.com/apps/fathomless-meadow-56406  
+GitHub Repo: https://github.com/TimeBytes/Book-Search-Engine
 
 ## Credits
 
+Used University of Toronto Bootcamp Activities as reference for syntax and file structure.  
+https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-PT-02-2023-U-LOLC/-/tree/main/21-MERN
+
 ## License
+
+MIT License
