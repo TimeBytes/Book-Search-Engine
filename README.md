@@ -20,7 +20,7 @@ When you click the "Save This Book" button, the chosen book will be securely sto
 
 ![screenshot of savedbooks list](assets/images/screenshot-mybooks.png)
 
-Live Deployed URL: https://dashboard.heroku.com/apps/fathomless-meadow-56406  
+Live Deployed URL: https://fathomless-meadow-56406-73993fe7d83b.herokuapp.com/
 GitHub Repo: https://github.com/TimeBytes/Book-Search-Engine
 
 ## Credits
